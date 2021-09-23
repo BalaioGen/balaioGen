@@ -33,7 +33,7 @@ Este projeto está sendo desenvolvido por um grupo de cinco integrantes, sendo e
 ## Leonardo Sato
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-kenji-sato-0a495a1b7/)](https://www.linkedin.com/in/leonardo-kenji-sato-0a495a1b7/) 
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&labelColor=black&logo=Github&logoColor=white&link=https://github.com/LeooSato)](https://github.com/LeooSato)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karoltoledo71@hotmail.com)](karoltoledo71@hotmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardosato02@outlook.com)](leonardosato02@outlook.com)
 
 ## Lucas Piva
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccaspiva/)](https://www.linkedin.com/in/luccaspiva/) 
